@@ -29,7 +29,7 @@ $(function () {
 		console.log("失去焦点");
 		$(this).parent().removeClass('outline');
 		$title_txt.removeClass('title');
-		$title_txt.html("置办年货省省省！红包在手年货无忧！点击领取年货红包&nbsp;&nbsp;&nbsp;热门微博");
+		$title_txt.html("没事我溜达，找个菜刀看西瓜");
 	})
  
 	// 输入框文本修改
